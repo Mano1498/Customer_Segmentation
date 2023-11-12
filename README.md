@@ -20,6 +20,7 @@ The web app provides a holistic view of customer segmentation, offering:
 # Model Utilization in Web App
 
 The web app incorporates two predictive models:
+
 **Logistic Regression:** Predicts the cluster ID for each customer based on their characteristics.
 
 **Random Forest Classifier:** Predicts customer loyalty levels, enhancing the understanding of customer behavior.
