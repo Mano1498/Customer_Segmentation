@@ -30,4 +30,8 @@ Visit the hosted web app on the Streamlit Community to explore the enhanced RFM 
 
 Feel free to contribute, report issues, or provide feedback. Happy segmenting!
 
+# Author
+Mano Ranjan : www.linkedin.com/in/mano1498
+
+
 
